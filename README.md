@@ -1,1 +1,3 @@
-# Sistemas-Distribuidos-
+# Sistemas_Distribuidos
+
+<p>@Breno Cardoso Braga</p>
